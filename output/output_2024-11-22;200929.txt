@@ -1,0 +1,5 @@
+sh: 1: notify-send: not found
+Karachi 
+Current temperature : 25.90°C
+feels like : 26.03°C
+Humidity : 57
