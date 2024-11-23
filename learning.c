@@ -8,7 +8,7 @@
 
 int main() {
   char* city = "Karachi";
-  const char* api = "572f7ccfe2c582a830dfddb06e0f2236";
+  const char* api = "1ed12cc7c017581c7a7ae7f1ec6e6a44";
   char* abc;
   abc = response(city,api);
   FILE* wes = fopen("raw_data.json","a");
