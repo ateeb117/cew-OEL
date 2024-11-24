@@ -1,5 +1,5 @@
 First you need to compile the code using
- gcc api.c json.c main.c -o w -lcurl -lcjson
+ gcc api.c json.c main.c -o run -lcurl -lcjson
 
 # here output_to_files.sh is the shell script file which is storing weather information in output file.
 # change script.sh to output_to-files.sh
